@@ -3,14 +3,15 @@
     <h1> Salve! Cesar aqui! :D 😎</h1>
 </div>
 
-## 🖤 -- Redes Sociais
-
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/pan_sz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sad_pandi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pand4.exe/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-soares-753b261aa/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pansz-uwu)
-![Discord](https://img.shields.io/badge/%3Cpan9877%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+### 🖤 -- Redes Sociais
+<div>
+    <a href="https://www.twitch.tv/pan_sz" target="_blank"><img alt="twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/sad_pandi" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/pand4.exe/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/cesar-soares-753b261aa/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/pansz-uwu" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+    <img alt="discord" src="https://img.shields.io/badge/%3Cpan9877%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</div>
 
 #
 
@@ -21,22 +22,19 @@
 </div>
 
 #
-  
-## 💻 -- O que estou aprendendo!
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+### 💻 -- O que estou aprendendo!
+<div>
+    <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+    <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+    <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank">
+    <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank">
 </div>
-
-![Snake animation](https://github.com/pansz-uwu/pansz-uwu/blob/output/github-contribution-grid-snake.svg)
-  
-#
+    
+<div align="center"><img align="center" alt="snake_animation" src="https://github.com/pansz-uwu/pansz-uwu/blob/output/github-contribution-grid-snake.svg"></div>
 
 <div align="center">
-    <img alt="goodbye" src="https://img.itch.zone/aW1hZ2UvMjc2MTg0LzEzNDQ0MDMucG5n/original/BlTtYV.png">
+    <img align="center" alt="goodbye" src="https://img.itch.zone/aW1hZ2UvMjc2MTg0LzEzNDQ0MDMucG5n/original/BlTtYV.png">
 </div>
 
 <dev align="center">
