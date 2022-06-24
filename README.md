@@ -33,10 +33,6 @@
     
 <div align="center"><img align="center" alt="snake_animation" src="https://github.com/pansz-uwu/pansz-uwu/blob/output/github-contribution-grid-snake.svg"></div>
 
-<div align="center">
-    <img align="center" alt="goodbye" src="https://img.itch.zone/aW1hZ2UvMjc2MTg0LzEzNDQ0MDMucG5n/original/BlTtYV.png">
-</div>
-
 <dev align="center">
     <p align="center">
         ⣿⣿⣿⣿⣿⣿⡷⣯⢿⣿⣷⣻⢯⣿⡽⣻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠸⣿⣿⣆⠹⣿⣿⢾⣟⣯⣿⣿⣿⣿⣿⣿⣿⣿
