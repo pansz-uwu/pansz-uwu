@@ -13,7 +13,7 @@
     <img alt="discord" src="https://img.shields.io/badge/%3Cpan9877%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </div>
 
-#
+##
 
 <div align="center">
   <a href="https://github.com/pansz-uwu">
