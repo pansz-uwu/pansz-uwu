@@ -10,7 +10,7 @@
     <a href="https://www.instagram.com/pand4.exe/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/cesar-soares-753b261aa/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/pansz-uwu" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-    <img alt="discord" src="https://img.shields.io/badge/%3Cpan9877%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img alt="discord" src="https://img.shields.io/badge/%3Cuwu_pan%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </div>
 
 ##
